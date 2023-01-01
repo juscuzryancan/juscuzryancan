@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋👨‍💻 
+### Specifically Here:
 
 - 🤔 I’m looking for help with developing and marketing a product as an entrepreneur.
 - 🌱 Technologies I'm Learning in 2023
