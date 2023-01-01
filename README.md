@@ -7,7 +7,7 @@
   - [ ] Prisma
   - [ ] GraphQL
   - [ ] Redux
-  - [ ] Generative Art (p5, Processing,  )
+  - [ ] Generative Art (p5, Processing, Nannou, Sonic Pi, etc ...)
   - [ ] Rust/Golang
   - [ ] DSA
   - [ ] AWS/Cloud
