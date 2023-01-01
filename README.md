@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🤔 I’m looking for help with developing and marketing a product as an entrepreneur.
-- 🌱 This year I'm planning to learn
+- 🌱 Technologies I'm Learning in 2023
   - [ ] Microservices in Java Spring Boot
   - [ ] Next.js (Overall SSR)
   - [ ] Prisma
