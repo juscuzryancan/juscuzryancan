@@ -5,6 +5,7 @@
   - [ ] Microservices in Java Spring Boot
   - [ ] Next.js (Overall SSR)
   - [ ] Prisma
+  - [ ] GraphQL
   - [ ] Redux
   - [ ] Generative Art (p5, Processing,  )
   - [ ] Rust/Golang
