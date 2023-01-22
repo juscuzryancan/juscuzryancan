@@ -21,6 +21,7 @@ As a child, I had many interests within gaming and I found a growing eager to fi
   - [ ] DSA
   - [ ] AWS/Cloud
   - [ ] Maybe Tensorflow
+  - [ ] Optimizations within good chunks
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanrileypuzon/)
 - [Personal Portfolio](juscuzryancan.github.io)
 <!--
