@@ -19,7 +19,7 @@ As a child, I had many interests within gaming and I found a growing eager to fi
   - [ ] Generative Art (p5, Processing, Nannou, Sonic Pi, etc ...)
   - [ ] Rust/Golang
   - [ ] DSA
-  - [ ] AWS/Cloud
+  - [x] AWS/Cloud (Cloud Practitioner)
   - [ ] Maybe Tensorflow
   - [ ] Optimizations within good chunks
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanrileypuzon/)
