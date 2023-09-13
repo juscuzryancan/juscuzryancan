@@ -15,7 +15,7 @@ As a child, I had many interests within gaming and I found a growing eager to fi
   - [ ] Next.js (Overall SSR)
   - [ ] Prisma
   - [ ] GraphQL
-  - [ ] Redux
+  - [x] Redux
   - [ ] Generative Art (p5, Processing, Nannou, Sonic Pi, etc ...)
   - [ ] Rust/Golang
   - [ ] DSA
