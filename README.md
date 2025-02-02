@@ -10,18 +10,8 @@ As a child, I had many interests within gaming and I found a growing eager to fi
 ### Specifically Here:
 
 - 🤔 I’m looking for help with developing and marketing a product as an entrepreneur.
-- 🌱 Technologies I'm Learning in 2023
-  - [ ] Microservices in Java Spring Boot
-  - [ ] Next.js (Overall SSR)
-  - [ ] Prisma
-  - [ ] GraphQL
-  - [x] Redux
-  - [ ] Generative Art (p5, Processing, Nannou, Sonic Pi, etc ...)
-  - [ ] Rust/Golang
-  - [ ] DSA
-  - [x] AWS/Cloud (Cloud Practitioner)
-  - [ ] Maybe Tensorflow
-  - [ ] Optimizations within good chunks
+- 🌱 Technologies I'm Learning in 2025
+  - [ ] TBD...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanrileypuzon/)
 - [Personal Portfolio](juscuzryancan.github.io)
 <!--
