@@ -9,9 +9,10 @@ As a child, I had many interests within gaming and I found a growing eager to fi
 
 ### Specifically Here:
 
-- 🤔 I’m looking for help with developing and marketing a product as an entrepreneur.
+- 🤔 
 - 🌱 Technologies I'm Learning in 2025
-  - [ ] TBD...
+  - [ ] Lynx.js
+  - [ ] Go
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanrileypuzon/)
 - [Personal Portfolio](https://www.juscuzryancan.com)
 <!--
