@@ -13,7 +13,7 @@ As a child, I had many interests within gaming and I found a growing eager to fi
 - 🌱 Technologies I'm Learning in 2025
   - [ ] TBD...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanrileypuzon/)
-- [Personal Portfolio](juscuzryancan.github.io)
+- [Personal Portfolio](https://www.juscuzryancan.com)
 <!--
 **juscuzryancan/juscuzryancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
