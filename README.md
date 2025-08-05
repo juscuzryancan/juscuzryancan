@@ -10,17 +10,16 @@ As a child, I had many interests in gaming and I found myself growing eager to f
 ### Specifically Here:
 
 - 🤔 
-- 🌱 Technologies I'm Learning in 2025
-  - [ ] Lynx.js
-  - [ ] Go
-  - [ ] Docker
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanrileypuzon/)
 - [Personal Portfolio](https://www.juscuzryancan.com)
 <!--
 **juscuzryancan/juscuzryancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 Technologies I'm Learning in 2025
+  - [ ] Lynx.js
+  - [ ] Go
+  - [ ] Docker
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
